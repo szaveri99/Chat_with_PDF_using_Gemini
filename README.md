@@ -2,6 +2,8 @@
 
 This repository contains a PDF Chatbot application built with Streamlit, LangChain, Google Generative AI, FAISS, and other libraries. The application allows users to upload PDF documents, and then ask questions about the content in the PDFs. The chatbot will use Google Generative AI and FAISS vector store to provide accurate answers based on the provided PDF content.
 
+**Please note:** This application is specifically designed to work with [this PDF](https://drive.google.com/file/d/1NP51IbpiXiVl0omdD5KrdKmNDn_ZSdpN/view?usp=sharing). 
+
 ## Streamlit App
 
 You can access the deployed Streamlit app [here](https://pdf-chatbot-llm.streamlit.app/).
